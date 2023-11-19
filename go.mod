@@ -32,7 +32,7 @@ require (
 	// Pin specific etcd version via tag. See https://github.com/etcd-io/etcd/pull/11477
 	go.etcd.io/etcd v0.0.0-20191023171146-3cf2f69b5738
 	gocloud.dev v0.17.0
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.56.3
 	google.golang.org/grpc/examples v0.0.0-20230705174746-11feb0a9afd8 // indirect
 	k8s.io/api v0.17.3
 	k8s.io/apiextensions-apiserver v0.17.3 // indirect
